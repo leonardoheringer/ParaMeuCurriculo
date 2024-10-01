@@ -1,0 +1,15 @@
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ParaMeuCurriculo\Calculadora Juros\bin\Debug\net8.0\Calculadora Juros.exe
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ParaMeuCurriculo\Calculadora Juros\bin\Debug\net8.0\Calculadora Juros.deps.json
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ParaMeuCurriculo\Calculadora Juros\bin\Debug\net8.0\Calculadora Juros.runtimeconfig.json
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ParaMeuCurriculo\Calculadora Juros\bin\Debug\net8.0\Calculadora Juros.dll
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ParaMeuCurriculo\Calculadora Juros\bin\Debug\net8.0\Calculadora Juros.pdb
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ParaMeuCurriculo\Calculadora Juros\obj\Debug\net8.0\Calculadora Juros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ParaMeuCurriculo\Calculadora Juros\obj\Debug\net8.0\Calculadora Juros.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ParaMeuCurriculo\Calculadora Juros\obj\Debug\net8.0\Calculadora Juros.AssemblyInfo.cs
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ParaMeuCurriculo\Calculadora Juros\obj\Debug\net8.0\Calculadora Juros.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ParaMeuCurriculo\Calculadora Juros\obj\Debug\net8.0\Calculadora Juros.sourcelink.json
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ParaMeuCurriculo\Calculadora Juros\obj\Debug\net8.0\Calculadora Juros.dll
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ParaMeuCurriculo\Calculadora Juros\obj\Debug\net8.0\refint\Calculadora Juros.dll
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ParaMeuCurriculo\Calculadora Juros\obj\Debug\net8.0\Calculadora Juros.pdb
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ParaMeuCurriculo\Calculadora Juros\obj\Debug\net8.0\Calculadora Juros.genruntimeconfig.cache
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ParaMeuCurriculo\Calculadora Juros\obj\Debug\net8.0\ref\Calculadora Juros.dll
