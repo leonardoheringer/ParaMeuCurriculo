@@ -2,8 +2,8 @@
 
 ## O que foi utilizado
 - **Linguagem**: C#
-- **Ambiente de Desenvolvimento**: Visual Studio / Visual Studio Code
-- **.NET Framework**: .NET Core ou .NET 5/6
+- **Ambiente de Desenvolvimento**: Visual Studio Code
+- **.NET Framework**: .NET 8.0
 - **Bibliotecas**: Nenhuma biblioteca externa foi utilizada.
 
 ## Etapas implementadas
